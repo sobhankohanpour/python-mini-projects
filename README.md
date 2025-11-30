@@ -33,8 +33,7 @@ python-mini-projects/
 ├── Games/                # Mini games and interactive programs
 ├── Web-Scripts/          # API interactions and web scraping projects
 ├── Automation/           # Scripts to automate everyday tasks
-├── ML-Experiments/       # Beginner machine learning experiments
-└── Utilities/            # Reusable helper functions and small utilities
+└── ML-Experiments/       # Beginner machine learning experiments
 ```
 
 ## 🚀 Getting Started
