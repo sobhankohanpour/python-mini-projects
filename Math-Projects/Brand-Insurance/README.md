@@ -24,4 +24,43 @@ A simple yet effective example for practicing:
 - String analysis
 - Conditional logic in Python
 - Basic algorithmic thinking
-  
+
+
+## 🚀 How to Run
+
+1. **Open your terminal** and navigate to the project directory:
+
+```bash
+cd path/to/python-mini-projects/Math-Projects/Brand-Insurance
+````
+
+2. **Run the script**:
+
+```bash
+python "samanoo_brand_insurance.py"
+```
+
+> ⚠️ The program will wait for you to **type the brand name** and press **Enter**.
+
+3. **Example Run**:
+
+```bash
+$ python "samanoo_brand_insurance.py"
+bitpin
+Yes
+```
+
+```bash
+$ python "samanoo_brand_insurance.py"
+samanoo
+No
+```
+
+4. **Optional:** Run predefined test cases (if the test block is added):
+
+```bash
+python "samanoo_brand_insurance.py"
+```
+
+You should see a list of test results automatically printed.
+
