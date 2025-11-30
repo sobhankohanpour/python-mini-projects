@@ -28,12 +28,18 @@ Each project is self-contained, well-documented, and structured to showcase codi
 ```text
 python-mini-projects/
 │
-├── Math-Projects/        # Algorithmic and calculation-focused projects
-├── Data-Processing/      # File handling, data manipulation, and automation
-├── Games/                # Mini games and interactive programs
-├── Web-Scripts/          # API interactions and web scraping projects
-├── Automation/           # Scripts to automate everyday tasks
-└── ML-Experiments/       # Beginner machine learning experiments
+├── math_projects/
+│   ├── brand_insurance/
+│   │   ├── README.md
+│   │   └── samanoo_brand_insurance.py
+│   └── company_walls/
+│       ├── README.md
+│       └── company_walls.py
+├── data_processing/
+├── games/
+├── web_scripts/
+├── automation/
+└── ml_experiments/
 ```
 
 ## 🚀 Getting Started

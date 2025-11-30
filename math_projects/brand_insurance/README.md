@@ -31,7 +31,7 @@ A simple yet effective example for practicing:
 1. **Open your terminal** and navigate to the project directory:
 
 ```bash
-cd path/to/python-mini-projects/Math-Projects/brand-insurance
+cd path/to/python-mini-projects/math_projects/brand_insurance
 ````
 
 2. **Run the script**:
