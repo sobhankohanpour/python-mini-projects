@@ -30,16 +30,16 @@ python-mini-projects/
 │
 ├── math_projects/
 │   ├── brand_insurance/
-│   │   ├── README.md
-│   │   └── samanoo_brand_insurance.py
-│   └── company_walls/
-│       ├── README.md
-│       └── company_walls.py
+│   ├── company_walls/
+│   └── expression_maximizer
 ├── data_processing/
+│   └── binary_string_classifier
 ├── games/
+│   └── snake_game/
 ├── web_scripts/
 ├── automation/
 └── ml_experiments/
+    └── covid_drug_comparator/
 ```
 
 ## 🚀 Getting Started
