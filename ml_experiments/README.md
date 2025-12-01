@@ -7,4 +7,4 @@ This folder will feature beginner-friendly Python projects exploring machine lea
 - Hands-on practice with datasets
 - Introduction to Python-based machine learning
 
-⚡ **Coming Soon:** Projects will be released as soon as possible. Stay tuned!
+⚡ **Coming Soon:** Many more projects will be added to expand your Python toolkit. Stay tuned!
