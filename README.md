@@ -64,6 +64,17 @@ python project_name.py
 
 > Each project folder contains a **README.md** with instructions, requirements, and usage examples.
 
+### 📓 Running Notebook-Based Projects
+
+Some projects come with `.ipynb` notebooks instead of `.py` files.  
+To run them:
+
+1. Open the notebook using **Jupyter Notebook**, **JupyterLab**, or **VS Code**.
+2. Install required dependencies listed in the project’s README.
+3. Execute the cells sequentially to reproduce the results.
+
+Alternatively, you can run the notebook online using **Google Colab** without local setup.
+
 ## 💡 Contribution
 
 Contributions are welcome! Feel free to:
@@ -72,4 +83,3 @@ Contributions are welcome! Feel free to:
 * Improve existing code
 * Fix bugs or enhance documentation
 
----
