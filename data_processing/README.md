@@ -7,4 +7,4 @@ This folder will host Python scripts for data manipulation, file handling, and a
 - Automation of repetitive tasks
 - Data transformation and analysis
 
-⚡ **Coming Soon:** Projects will be released as soon as possible. Stay tuned!
+⚡ **Coming Soon:** Many more projects will be added to expand your Python toolkit. Stay tuned!

@@ -7,4 +7,4 @@ This folder will contain algorithmic and calculation-focused Python projects des
 - Mathematical computations and exercises
 - Practice for coding interviews and learning Python
 
-⚡ **Coming Soon:** Projects will be released as soon as possible. Stay tuned!
+⚡ **Coming Soon:** Many more projects will be added to expand your Python toolkit. Stay tuned!
