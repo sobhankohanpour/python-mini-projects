@@ -7,4 +7,4 @@ This folder will feature small Python games and interactive programs to make lea
 - Interactive programs to practice Python concepts
 - Fun projects to enhance coding skills
 
-⚡ **Coming Soon:** Projects will be released as soon as possible. Stay tuned!
+⚡ **Coming Soon:** Many more projects will be added to expand your Python toolkit. Stay tuned!
