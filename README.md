@@ -5,7 +5,7 @@
 ![Pull Requests](https://img.shields.io/github/issues-pr/sobhankohanpour/python-mini-projects)
 
 ![Repo Size](https://img.shields.io/github/repo-size/sobhankohanpour/python-mini-projects)
-![Code Size](https://img.shields.io/github/languages/code-size/sobhankohanpour/python-mini-projectss)
+![Code Size](https://img.shields.io/github/languages/code-size/sobhankohanpour/python-mini-projects)
 ![Contributors](https://img.shields.io/github/contributors/sobhankohanpour/python-mini-projects)
 ![Forks](https://img.shields.io/github/forks/sobhankohanpour/python-mini-projects)
 ![GitHub Stars](https://img.shields.io/github/stars/sobhankohanpour/python-mini-projects)
