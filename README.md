@@ -32,13 +32,19 @@ python-mini-projects/
 │   ├── brand_insurance/
 │   ├── company_walls/
 │   └── expression_maximizer
+│
 ├── data_processing/
 │   ├── binary_string_classifier
 │   └── nlp_preprocessing
+│
 ├── games/
 │   └── snake_game/
+│
 ├── web_scripts/
+│
 ├── automation/
+│   └── pdf_merger/
+│
 └── ml_experiments/
     └── covid_drug_comparator/
 ```
