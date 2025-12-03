@@ -1,0 +1,6 @@
+numpy==1.24.4
+scikit-learn==1.2.2
+gplearn==0.4.2
+pandas==2.3.3
+openpyxl==3.1.5
+matplotlib==3.7.2
